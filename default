@@ -4,7 +4,7 @@ upstream php-fpm {
 
 server {
         ## Your website name goes here.
-        server_name mvp.realthy.io;
+        server_name promo.realthy.io;
         ## Your only path reference.
         root /var/www;
         ## This should be in your http block and if it is, it's not needed here.
